@@ -4,7 +4,7 @@
 </p>
 
 # osTicket - Post-Installation Configuration
-This documentation outlines the critical post-installation configurations for the osTicket help desk ticketing system. These steps ensure the system is tailored to the organization's needs, enabling efficient support management and role-based access.
+This documentation outlines the post-installation configurations for the osTicket help desk ticketing system. These steps ensure the system is tailored to the organization's needs, enabling efficient support management and role-based access.
 
 osTicket is an open-source ticketing solution that centralizes support requests and automates workflows. This guide demonstrates the configuration of roles, departments, agents, users, SLAs, and help topics, along with a distinction between agent and admin panels.
 
@@ -113,5 +113,5 @@ osTicket is distributed under the GNU General Public License (GPL). For more inf
 
 ## Contact Information
 For questions or feedback, feel free to reach out:  
-- **GitHub**: [Your GitHub Profile Link]  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
+- **GitHub**: https://github.com/Pieratboi  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rafael-razapov-60391a2b8/?trk=opento_sprofile_topcard"> Rafael Razapov </a>  
